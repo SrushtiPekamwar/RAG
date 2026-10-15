@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+report.tex
+git_commands.sh
+report.pdf
